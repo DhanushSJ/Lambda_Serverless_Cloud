@@ -1,27 +1,6 @@
 # Serverless Function Execution Platform
 
 A serverless compute platform that allows users to upload, manage and execute functions on-demand with no infrastructure management required. This project provides a complete solution from authentication to function execution using both Docker containers and Nanos unikernels.
-<p float="left" align="center">
-  <img src="assets\dashboard.jpg" width="45%" alt="Dashboard"/>
-  <img src="assets\function_upload.jpg" width="45%" alt="Upload Function"/>
-</p>
-
-<p float="left" align="center">
-  <b>📊 Dashboard</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>📤 Upload Function</b>
-</p>
-
-<br>
-
-<p float="left" align="center">
-  <img src="assets/view_functions.png" width="45%" alt="View All Functions"/>
-  <img src="assets/S3_database.png" width="45%" alt="S3 Integration"/>
-</p>
-
-<p float="left" align="center">
-  <b>📁 View All Functions</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>☁️ S3 Integration</b>
-</p>
 
 ## Features
 
