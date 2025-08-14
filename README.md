@@ -2,8 +2,8 @@
 
 A serverless compute platform that allows users to upload, manage and execute functions on-demand with no infrastructure management required. This project provides a complete solution from authentication to function execution using both Docker containers and Nanos unikernels.
 <p float="left" align="center">
-  <img src="assets/dashboard.jpg" width="45%" alt="Dashboard"/>
-  <img src="assets/function_upload.jpg" width="45%" alt="Upload Function"/>
+  <img src="assets\dashboard.jpg" width="45%" alt="Dashboard"/>
+  <img src="assets\function_upload.jpg" width="45%" alt="Upload Function"/>
 </p>
 
 <p float="left" align="center">
